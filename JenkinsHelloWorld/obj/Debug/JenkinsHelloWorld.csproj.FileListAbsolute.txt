@@ -1,0 +1,6 @@
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\bin\Debug\JenkinsHelloWorld.exe.config
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\bin\Debug\JenkinsHelloWorld.exe
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\bin\Debug\JenkinsHelloWorld.pdb
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\obj\Debug\JenkinsHelloWorld.csproj.CoreCompileInputs.cache
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\obj\Debug\JenkinsHelloWorld.exe
+H:\Bistro Kaspar\GeneGuide\Project Test\JenkinsHelloWorld\JenkinsHelloWorld\obj\Debug\JenkinsHelloWorld.pdb
